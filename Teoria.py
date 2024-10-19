@@ -8,11 +8,24 @@ print              ("Teoria")
 
 # OperadoresLogicos (Python temos os seguintes operadores lógicos: and: Operador E. or: Operador OU. not: Operador NÃO.)
 
-# IF:(É utilizado para verificar uma condição e executar um bloco de código se essa condição for verdadeira. )
+# OQ é IF:(É utilizado para verificar uma condição e executar um bloco de código se essa condição for verdadeira. )
 
-#elif: (Se a condição do if for falsa, o Python verifica a condição do elif subsequente(abaixo), e assim por diante, Isso permite criar uma cadeia de verificações até que uma seja verdadeira ou todas sejam falsas.)
+# OQ é elif: (Se a condição do if for falsa, o Python verifica a condição do elif subsequente(abaixo), e assim por diante, Isso permite criar uma cadeia de verificações até que uma seja verdadeira ou todas sejam falsas.)
 
-#else: (O comando else é utilizado para executar um bloco de código, caso o resultado da expressão informada na instrução if seja falso. Vale ressaltar que a instrução else só pode ser utilizada em conjunto com o if.)
+# OQ é else: (O comando else é utilizado para executar um bloco de código, caso o resultado da expressão informada na instrução if seja falso. Vale ressaltar que a instrução else só pode ser utilizada em conjunto com o if.)
+
+# OQ é while:(Uma forma de iteração em Python é a instrução while, que permite repetir a execução de um bloco de código, sempre que a condição do loop seja verdadeira. O código no corpo do loop deve alterar uma)
+
+
+
+
+
+
+
+
+
+
+
 
 # OperadoresRelacionais
 
